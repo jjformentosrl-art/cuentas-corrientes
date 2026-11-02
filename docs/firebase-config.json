@@ -1,9 +1,9 @@
 {
-  "mode": "setup",
+  "mode": "firebase",
   "firebase": {
-    "apiKey": "",
-    "authDomain": "",
-    "projectId": "",
-    "appId": ""
+    "apiKey": "AIzaSyA7b1_eM4CeoGjIJjVKTY3hWqt_TFiihqw",
+    "authDomain": "cuentas-corrientes-eae79.firebaseapp.com",
+    "projectId": "cuentas-corrientes-eae79",
+    "appId": "1:370935916393:web:b45ab87a304cd0126d3ff8"
   }
 }
