@@ -4,6 +4,8 @@
     "apiKey": "AIzaSyA7b1_eM4CeoGjIJjVKTY3hWqt_TFiihqw",
     "authDomain": "cuentas-corrientes-eae79.firebaseapp.com",
     "projectId": "cuentas-corrientes-eae79",
+    "storageBucket": "cuentas-corrientes-eae79.firebasestorage.app",
+    "messagingSenderId": "370935916393",
     "appId": "1:370935916393:web:b45ab87a304cd0126d3ff8"
   }
 }
